@@ -21,3 +21,6 @@ Dockerfile
 # Misc
 *.log
 *.env
+
+.DS_Store
+submission.tex
