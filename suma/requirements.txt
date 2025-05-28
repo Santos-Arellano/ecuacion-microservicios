@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+pydantic
+httpx==0.24.1
+mysql-connector-python
